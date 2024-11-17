@@ -19,7 +19,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/frontend-mentor-qr-code-component-challenge-solution.png)
+![QR code component challenged solution screenshot](./images/frontend-mentor-qr-code-component-challenge-solution.png)
 
 ### Links
 
