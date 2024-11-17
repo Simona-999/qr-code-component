@@ -35,7 +35,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
--This challenge allowed me to reinforce and practise my knowledge of **Flexbox**, enhancing my understanding of its layout capabilities.
+-This challenge allowed me to reinforce and practise my knowledge of **Flexbox**, enhancing my understanding of its layout capabilities.<br>
 -Additionaly, I expanded my expertise in applying **box-shadow to elements**. I gained a deeper understanding of its various properties,
 including horizontal offset, vertical offset, blur radius, and spread radius.
 
@@ -54,7 +54,7 @@ including horizontal offset, vertical offset, blur radius, and spread radius.
 
 ### Continued development
 
--In the fiture, I aim to expand my knowledge of creating responsive layouts using CSS, Flexbox and Grid. 
+-In the fiture, I aim to expand my knowledge of creating responsive layouts using CSS, Flexbox and Grid.<br> 
 -Additionally, I plan to explore the Tailwind CSS framework to leverage its optimization techniques.
 
 ### Useful resources
